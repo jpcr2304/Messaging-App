@@ -14,7 +14,7 @@ Simple messaging application with a Vue frontend and Node.js backend.
 - View sent messages  
 - View deleted messages  
 
-## 🔐 Security
+## Security
 
 - **JWT Authentication:**
   Access to protected endpoints is secured using JSON Web Tokens.
