@@ -2,6 +2,10 @@
 
 Simple messaging application with a Vue frontend and Node.js backend.
 
+## Home Page
+
+![Home Page](home.png)
+
 ## Features
 
 - User registration and login  
